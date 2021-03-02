@@ -11,6 +11,6 @@ if ( userNumber1 > userNumber2 ) {
     console.log("il numero maggiore che hai inserito è: " + userNumber1);
 } else if ( userNumber2 > userNumber1 ) {
     console.log("il numero maggiore che hai inserito è: " + userNumber2);
-} else ( userNumber1 == userNumber2 ) {
+} else {
     console.log("i numeri che hai inserito sono uguali tra di loro");
 }
