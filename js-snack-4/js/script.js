@@ -3,9 +3,9 @@ grande Inzaghi, chiedi all’utente il suo nome e comunicagli se
 può partecipare o no alla festa. */
 
 
-var invitati = ["Tizio", "Caio", "Sempronio"]
+var invitati = ["Tizio", "Caio", "Sempronio"];
 
-var nomeInvitato = prompt("Inserisci il tuo nome per verificare se sei nella lista degli invitati")
+var nomeInvitato = prompt("Inserisci il tuo nome per verificare se sei nella lista degli invitati");
 
 var seiInvitato = 0;
 
