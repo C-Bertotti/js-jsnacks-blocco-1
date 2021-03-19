@@ -15,7 +15,7 @@ var bici = [
     },
 ];
 
-var biciLeggera = bici[1];
+var biciLeggera = bici[0];
 
 for ( var i = 0; i < bici.length; i++ ) {
     if ( (bici[i].peso) < (biciLeggera.peso) ) {
